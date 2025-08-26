@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Devanshu Kinkar</h1>
+<h1 align="center">Hi 👋, I'm Devanshu </h1>
 <h3 align="center">A passionate frontend developer from India Exploring Modern Frontend Technologies and Web3</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshuk45&label=Profile%20views&color=0e75b6&style=flat" alt="devanshuk45" /> </p>
