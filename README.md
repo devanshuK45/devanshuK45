@@ -13,14 +13,10 @@
 
 - 💬 Ask me about **- React - Vue - GSAP**
 
-- 📫 How to reach me **LinkdIn:[www.linkedin.com/in/devanshu-kinkar]**
-
-- ⚡ Fun fact **I think I am Funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@optimaldevd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@optimaldevd" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/devanshu kinkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devanshu kinkar" height="30" width="40" /></a>
+
 <a href="https://auth.geeksforgeeks.org/user/optimaldev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="optimaldev" height="30" width="40" /></a>
 </p>
 
