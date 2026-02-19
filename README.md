@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/@optimaldevd" target="blank"><img src="https://img.shields.io/twitter/follow/@optimaldevd?logo=twitter&style=for-the-badge" alt="@optimaldevd" /></a> </p>
 
-- 🌱 I’m currently learning **Python,Javascript,React,3d-Animation**
+- 🌱 I’m currently learning **DSA,Full-Stack,And Web Animations**
 
-- Problem Solving **DSA | Python**
+- Problem Solving 
 
-- 💬 Ask me about **- React - Vue - GSAP**
+- 💬 Ask me about **- React - Gen-Ai - productivity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
